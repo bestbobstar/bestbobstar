@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bestbobstar (Roberto La Bella)
+- 👀 I’m interested in trading (especially Forex)
+- 🌱 I’m currently learning trading and MQL Programming
+- 💞️ I’m looking to collaborate on projects about trading and quantitative trading
+- 📫 How to reach me globalbobstar@gmail.com
